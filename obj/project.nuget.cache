@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGgvtLGdQY8Tr+xVRrO0QqNzlvKMrgZHqYd0hLlyK1ksB5gQCLl5RU3wui66gZkkpFFMJjaJ9Qb2ec2UZG1Brg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Logan\\source\\repos\\prosit-8.3.1\\prosit-8.3.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Logan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
